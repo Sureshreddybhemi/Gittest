@@ -1,0 +1,6 @@
+git checkout -b feature/10272025
+git branch
+ls -ltr
+git add
+git commit -m "comment"
+git status
